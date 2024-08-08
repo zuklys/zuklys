@@ -553,36 +553,15 @@
   .u-section-5 .u-image-1 {
     min-height: 304px;
   }
-}.u-block-5d54-2 {
-  position: absolute;
-  bottom: 10px;
-}
-
-.u-block-5d54-3 {
-  position: absolute;
-  left: 0;
-}
-
-.u-block-5d54-4 {
-  position: absolute;
-  right: 0;
-}
-
- .u-section-6-1 {
-  display: none;
-}
-
-.u-section-6-1 .u-sheet-1 {
-  min-height: 700px;
-} .u-section-7 {
+} .u-section-6 {
   background-image: none;
 }
 
-.u-section-7 .u-sheet-1 {
+.u-section-6 .u-sheet-1 {
   min-height: 401px;
 }
 
-.u-section-7 .u-group-1 {
+.u-section-6 .u-group-1 {
   width: 800px;
   min-height: 281px;
   height: auto;
@@ -590,48 +569,55 @@
   margin: 60px auto;
 }
 
-.u-section-7 .u-container-layout-1 {
+.u-section-6 .u-container-layout-1 {
   padding: 30px 30px 35px;
 }
 
-.u-section-7 .u-text-1 {
+.u-section-6 .u-text-1 {
   font-size: 1.25rem;
   line-height: 2;
   margin: 31px 0 0;
 }
 
 @media (max-width: 1199px) {
-  .u-section-7 .u-group-1 {
+  .u-section-6 .u-group-1 {
     height: auto;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-7 .u-group-1 {
+  .u-section-6 .u-group-1 {
     width: 720px;
   }
 
-  .u-section-7 .u-container-layout-1 {
+  .u-section-6 .u-container-layout-1 {
     padding-bottom: 30px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-7 .u-group-1 {
+  .u-section-6 .u-group-1 {
     width: 540px;
   }
 
-  .u-section-7 .u-text-1 {
+  .u-section-6 .u-text-1 {
     font-size: 1.125rem;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-7 .u-group-1 {
+  .u-section-6 .u-group-1 {
     width: 340px;
   }
-} .u-section-8 {
+} .u-section-7 {
   min-height: 500px;
+} .u-section-8 {
+  min-height: 138px;
+}
+
+.u-section-8 .u-custom-html-1 {
+  margin-top: 0;
+  margin-bottom: 0;
 } .u-section-9 {
   min-height: 138px;
 }
@@ -640,29 +626,22 @@
   margin-top: 0;
   margin-bottom: 0;
 } .u-section-10 {
-  min-height: 138px;
-}
-
-.u-section-10 .u-custom-html-1 {
-  margin-top: 0;
-  margin-bottom: 0;
-} .u-section-11 {
   margin-top: 20px;
   margin-bottom: 0;
   min-height: 720px;
 }
 
-.u-section-11 .u-custom-html-1 {
+.u-section-10 .u-custom-html-1 {
   height: auto;
   margin-top: 0;
   margin-bottom: 0;
   min-height: 720px;
-} .u-section-12 {
+} .u-section-11 {
   min-height: 138px;
   margin-top: 20px;
 }
 
-.u-section-12 .u-custom-html-1 {
+.u-section-11 .u-custom-html-1 {
   margin-top: 0;
   margin-bottom: 0;
 }
